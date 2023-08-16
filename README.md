@@ -2,7 +2,7 @@
 Quantum-powered Cataract Detection :  Learn Quantum and save eyes 
 
 
-Welcome to the Womanium CataraQt repo
+Welcome to the Womanium-CataraQt repo
 
 
 Description and objectives
@@ -23,4 +23,5 @@ Contributing
 We are excited to work alongside you.  Feel free to contribute and make a social impact !
 
 Communicating with the Team
-	Communicate with the team via GitHub issues.
+
+Communicate with the team via GitHub issues.
