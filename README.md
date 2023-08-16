@@ -1,5 +1,5 @@
 # Womanium-CataraQt
-Quantum-powered Cataract Detection :  Learn Quantum and save eyes 
+Quantum-powered Cataract Detection :  Learn Quantum and Save Eyes 
 
 
 Welcome to the Womanium-CataraQt repo
