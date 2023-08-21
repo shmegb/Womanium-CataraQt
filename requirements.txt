@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+qiskit
+pennylane
+tensorflow
+scikit-learn
+-e .
